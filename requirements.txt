@@ -3,5 +3,4 @@ pandas
 flask
 scikit-learn
 seaborn
-datetime
 -e .
