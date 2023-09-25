@@ -53,11 +53,11 @@ class DataIngestion :
 
 #Run the data ingestion
 
-if __name__ == '__main__':
-   obj = DataIngestion()
-   train_data, test_data = obj.intiate_data_ingestion() #it is returning two variables
-   data_trasformation = DataTranformation()
-   train_arr, test_arr,_ = data_trasformation.initiate_data_transformation(train_data,test_data)
+# if __name__ == '__main__':
+#    obj = DataIngestion()
+#    train_data, test_data = obj.intiate_data_ingestion() #it is returning two variables
+#    data_trasformation = DataTranformation()
+#    train_arr, test_arr,_ = data_trasformation.initiate_data_transformation(train_data,test_data)
  
 
 
