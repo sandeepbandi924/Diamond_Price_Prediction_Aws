@@ -10,3 +10,8 @@ conda activate venv/
 ```
 pip intsall -r requirements.txt
 ```
+
+Deployment link:
+'''
+http://gemstonedeploy-env.eba-b92m3wjf.ap-south-1.elasticbeanstalk.com/
+'''
